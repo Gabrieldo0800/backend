@@ -1,0 +1,20 @@
+body{
+    color: #dbe914;
+    background-color: rgb(10, 9, 12);
+    font-weight: bolder;   
+}
+
+.card{
+    background-color: rgb(107, 29, 224);
+}
+
+.card-header{
+    color: #b9b9af;
+    background-color: rgb(219, 147, 38) ;
+}
+
+.navbar{
+    background-color: #cad16c;
+    color: #999992;
+
+}
