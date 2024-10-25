@@ -1,0 +1,21 @@
+body{
+    color: #dbe914;
+    background-color:black;
+    font-weight: bolder;   
+}
+
+.card{
+    background-color:rgb(31, 158, 31);
+}
+
+.card-header{
+    color: #b9b9af;
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20211012/pngtree-code-binary-light-effect-black-background-image_909103.png);
+}
+
+.navbar{
+    background: url(https://png.pngtree.com/thumb_back/fh260/background/20211012/pngtree-code-binary-light-effect-black-background-image_909103.png);
+    border-radius: 3%;
+    color: rgb(31, 158, 31);
+
+}
